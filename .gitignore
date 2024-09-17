@@ -1,0 +1,33 @@
+# Ignore Python bytecode files
+__pycache__/
+*.pyc
+*.pyo
+
+# Ignore virtual environment
+pyvenv.cfg
+.env/
+venv/
+ENV/
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore large files that are not source code or config
+*.h5
+*.pickle
+
+# Ignore logs
+*.log
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore specific directories
+Include/
+Lib/
+Scripts/
+share/
+
+# Ignore specific files
+README.md
