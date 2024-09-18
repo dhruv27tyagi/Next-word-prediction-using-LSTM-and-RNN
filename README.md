@@ -1,6 +1,6 @@
 # Next-word-prediction-using-LSTM-and-RNN
 
-This project is a Streamlit application for predicting the next word in a sequence using LSTM and RNN models.
+This project is a ML application for predicting the next word in a sequence using LSTM and RNN models.
 
 ## Setup Instructions to run locally
 
